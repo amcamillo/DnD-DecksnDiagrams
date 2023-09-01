@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T04:13:24.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="vZRZXhb_qHAmc9ArCF5Z" version="21.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-01T05:54:09.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="jaGkWnrkffAqNX7bQhb7" version="21.7.1" type="github" pages="4">
   <diagram name="L50-Data-centric" id="_Ho3XsI3H59w44aN3OCp">
     <mxGraphModel dx="1343" dy="1311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sb3glyUbCpxoDbXCZk2h" name="Page-4">
-    <mxGraphModel dx="1492" dy="1457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2686" dy="2622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -598,6 +598,9 @@
               <mxPoint x="951" y="626" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uN7D-rCDVl4wdrUDwf-S-21" value="Note: Although Microsoft offers customers some guidance and tools to help with certain Recover &#xa;functions (data backup, account recovery), Microsoft 365 doesn’t specifically address this function." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1371.996259765625" y="1129" width="550" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
