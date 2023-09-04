@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T23:12:00.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="Beyca105iTXFD0zH1zvG" version="21.7.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-09-04T03:48:05.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="yi1Q2druqc0XvQWWIPXf" version="21.7.1" type="github" pages="7">
   <diagram name="L50-Data-centric" id="_Ho3XsI3H59w44aN3OCp">
     <mxGraphModel dx="1343" dy="1311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -458,125 +458,8 @@
         <mxCell id="v90w_BIxtOZxqywquu2r-87" value="Intune Portal" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="681" y="1152" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#f8cecc;strokeColor=#e57676;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1101" y="1054" as="sourcePoint" />
-            <mxPoint x="829" y="1092" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1037" y="1054" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#ffe6cc;strokeColor=#d79b00;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uN7D-rCDVl4wdrUDwf-S-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1124" y="855" as="sourcePoint" />
-            <mxPoint x="838" y="1088" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1046" y="862" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#ffe6cc;strokeColor=#d79b00;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uN7D-rCDVl4wdrUDwf-S-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1102" y="852" as="sourcePoint" />
-            <mxPoint x="852" y="369" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1008" y="646" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#f8cecc;strokeColor=#e57676;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100.5" y="1052.5" as="sourcePoint" />
-            <mxPoint x="851" y="449" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1021" y="1103" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uN7D-rCDVl4wdrUDwf-S-10" value="Defender for Cloud" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="681" y="426" width="120" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#f8cecc;strokeColor=#e57676;exitX=0.01;exitY=0.46;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uN7D-rCDVl4wdrUDwf-S-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1110.5" y="1062.5" as="sourcePoint" />
-            <mxPoint x="826" y="119" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1031" y="1113" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uN7D-rCDVl4wdrUDwf-S-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100.5" y="656" as="sourcePoint" />
-            <mxPoint x="834" y="321" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1009.5" y="444" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1099" y="644" as="sourcePoint" />
-            <mxPoint x="844" y="845" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="977" y="687" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=-0.005;exitY=0.543;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uN7D-rCDVl4wdrUDwf-S-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1104" y="648" as="sourcePoint" />
-            <mxPoint x="825" y="121" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1094" y="540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#dae8fc;strokeColor=#dae8fc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uN7D-rCDVl4wdrUDwf-S-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1109" y="667" as="sourcePoint" />
-            <mxPoint x="842" y="1151" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="973" y="506" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#dae8fc;strokeColor=#dae8fc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100.5" y="391.5" as="sourcePoint" />
-            <mxPoint x="834" y="488" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="974.5" y="503.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#fff2cc;strokeColor=#ffd65c;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100.5" y="142" as="sourcePoint" />
-            <mxPoint x="824" y="44" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="980" y="37" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#fff2cc;strokeColor=#ffd65c;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uN7D-rCDVl4wdrUDwf-S-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1110.5" y="152" as="sourcePoint" />
-            <mxPoint x="834" y="1091" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="941" y="616" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uN7D-rCDVl4wdrUDwf-S-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#fff2cc;strokeColor=#ffd65c;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uN7D-rCDVl4wdrUDwf-S-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1109" y="152" as="sourcePoint" />
-            <mxPoint x="844" y="700" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="951" y="626" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="uN7D-rCDVl4wdrUDwf-S-21" value="Note: Although Microsoft offers customers some guidance and tools to help with certain Recover &#xa;functions (data backup, account recovery), Microsoft 365 doesn’t specifically address this function." style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1371.996259765625" y="1129" width="550" height="51" as="geometry" />
@@ -890,7 +773,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of MxCSF-Identify" id="lCSCf9-cZO6DSeVPilvH">
+  <diagram name="MxCSF-Identify" id="lCSCf9-cZO6DSeVPilvH">
     <mxGraphModel dx="1343" dy="1314" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="QmJ_HyFcUFNlt_LVd_57-0" />
@@ -1118,125 +1001,8 @@
         <mxCell id="QmJ_HyFcUFNlt_LVd_57-78" value="Intune Portal" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="QmJ_HyFcUFNlt_LVd_57-1">
           <mxGeometry x="681" y="1152" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-79" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#f8cecc;strokeColor=#e57676;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1101" y="1054" as="sourcePoint" />
-            <mxPoint x="829" y="1092" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1037" y="1054" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-80" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#ffe6cc;strokeColor=#d79b00;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1" source="QmJ_HyFcUFNlt_LVd_57-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1124" y="855" as="sourcePoint" />
-            <mxPoint x="838" y="1088" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1046" y="862" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-81" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#ffe6cc;strokeColor=#d79b00;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1" source="QmJ_HyFcUFNlt_LVd_57-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1102" y="852" as="sourcePoint" />
-            <mxPoint x="852" y="369" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1008" y="646" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-82" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#f8cecc;strokeColor=#e57676;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100.5" y="1052.5" as="sourcePoint" />
-            <mxPoint x="851" y="449" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1021" y="1103" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QmJ_HyFcUFNlt_LVd_57-83" value="Defender for Cloud" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;fontSize=12;" vertex="1" parent="QmJ_HyFcUFNlt_LVd_57-1">
           <mxGeometry x="681" y="426" width="120" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-84" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#f8cecc;strokeColor=#e57676;exitX=0.01;exitY=0.46;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1" source="QmJ_HyFcUFNlt_LVd_57-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1110.5" y="1062.5" as="sourcePoint" />
-            <mxPoint x="826" y="119" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1031" y="1113" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-85" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1" source="QmJ_HyFcUFNlt_LVd_57-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100.5" y="656" as="sourcePoint" />
-            <mxPoint x="834" y="321" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1009.5" y="444" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-86" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1099" y="644" as="sourcePoint" />
-            <mxPoint x="844" y="845" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="977" y="687" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-87" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=-0.005;exitY=0.543;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1" source="QmJ_HyFcUFNlt_LVd_57-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1104" y="648" as="sourcePoint" />
-            <mxPoint x="825" y="121" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1094" y="540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-88" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#dae8fc;strokeColor=#dae8fc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1" source="QmJ_HyFcUFNlt_LVd_57-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1109" y="667" as="sourcePoint" />
-            <mxPoint x="842" y="1151" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="973" y="506" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-89" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#dae8fc;strokeColor=#dae8fc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100.5" y="391.5" as="sourcePoint" />
-            <mxPoint x="834" y="488" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="974.5" y="503.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-90" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#fff2cc;strokeColor=#ffd65c;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100.5" y="142" as="sourcePoint" />
-            <mxPoint x="824" y="44" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="980" y="37" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-91" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#fff2cc;strokeColor=#ffd65c;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1" source="QmJ_HyFcUFNlt_LVd_57-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1110.5" y="152" as="sourcePoint" />
-            <mxPoint x="834" y="1091" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="941" y="616" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QmJ_HyFcUFNlt_LVd_57-92" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=10;fillColor=#fff2cc;strokeColor=#ffd65c;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QmJ_HyFcUFNlt_LVd_57-1" source="QmJ_HyFcUFNlt_LVd_57-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1109" y="152" as="sourcePoint" />
-            <mxPoint x="844" y="700" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="951" y="626" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="QmJ_HyFcUFNlt_LVd_57-93" value="Note: Although Microsoft offers customers some guidance and tools to help with certain Recover &#xa;functions (data backup, account recovery), Microsoft 365 doesn’t specifically address this function." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="QmJ_HyFcUFNlt_LVd_57-1">
           <mxGeometry x="1371.996259765625" y="1129" width="550" height="51" as="geometry" />
