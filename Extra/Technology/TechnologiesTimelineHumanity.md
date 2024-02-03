@@ -1,3 +1,7 @@
+# Timeline of Technologies in Mermaid.live format
+
+```
+
 timeline
 title Timeline of Technologies Developed by Humanity
 section Prehistoric
@@ -63,3 +67,5 @@ Artificial Intelligence
 Renewable Energy
 : 21st century - Advancements
 : Renewable energy technologies
+
+```
