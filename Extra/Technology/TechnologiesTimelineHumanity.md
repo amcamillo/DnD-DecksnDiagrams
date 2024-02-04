@@ -1,5 +1,14 @@
 # Timeline of Technologies in Mermaid.live format
 
+Sources:
+
+https://www.britannica.com/story/history-of-technology-timeline
+https://en.wikipedia.org/wiki/History_of_technology
+https://en.wikipedia.org/wiki/Timeline_of_historic_inventions
+https://ourworldindata.org/technological-change
+https://www.instituteforenergyresearch.org/history-electricity/
+
+
 ```
 
 timeline
