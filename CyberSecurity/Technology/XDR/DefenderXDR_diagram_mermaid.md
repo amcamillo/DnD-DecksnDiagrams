@@ -55,6 +55,31 @@ flowchart TD
 
     "]
 
+    root --> EID("Entra ID")
+    EID --> idlist
+    idlist["
+    ✅ [Privileged Identity Management]
+    ✅ [Conditional Access]
+    ✅ [Risk-based Conditional Access]
+    ✅ [Identity Protection]
+    ✅ [Multi-Factor Authentication (MFA)]
+    ✅ [Passwordless Authentication]
+    ✅ [Access Reviews]
+    ✅ [Entitlement Management]
+    ✅ [Identity Secure Score]
+    ✅ [Application Management]
+    ✅ [B2B (Business-to-Business) Identity Services]
+    ✅ [B2C (Business-to-Consumer) Identity Services]
+    ✅ [Identity Governance]
+    "]
+
+    root --> purds("Microsoft Purview Data security")
+    purds --> purdslis
+    purdslis["
+    
+    "]
+
+
 %%    root --> EID("Entra ID")
 %%    EID --> idlist
 %%    idlist["
