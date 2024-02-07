@@ -1,0 +1,22 @@
+```
+
+timeline
+    title Timeline of Threats Leveraging and Against AI Systems
+    section 2017
+        Rise of Deep Fakes : Used in illicit content
+    section 2019
+        Malicious Tampering of 3D Medical Imagery : Utilizing Deep Learning
+    section 2020
+        Prompt Injection : Makes the headlines
+    section 2022
+        Generative AI : Enters mainstream
+        Face Recognition : Integrated into “Eagle Eye” service
+    section 2023
+        WormGPT (MalLLM) : Emergence of AI-based threats
+        PoisonGPT (Supply Chain) : Supply chain vulnerabilities
+        HalluHack : Cybersecurity breaches
+        MD Prompt Injection : Vulnerabilities in medical systems
+        Code Leaked via ChatGPT : Intellectual property risks
+
+
+```
